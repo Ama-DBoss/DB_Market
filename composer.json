@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ratchet/pawl": "^0.4",
+        "firebase/php-jwt": "^5.0",
+        "robthree/auth": "^1.0"
+    }
+}

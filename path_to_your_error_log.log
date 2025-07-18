@@ -1,0 +1,8 @@
+[15-Dec-2024 22:30:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\connect\forum.php on line 34
+[15-Dec-2024 22:30:43 UTC] PHP Stack trace:
+[15-Dec-2024 22:30:43 UTC] PHP   1. {main}() C:\wamp64\www\connect\forum.php:0
+[15-Dec-2024 22:30:43 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\connect\forum.php:34
+[15-Dec-2024 22:30:43 UTC] PHP Deprecated:  htmlspecialchars(): Passing null to parameter #1 ($string) of type string is deprecated in C:\wamp64\www\connect\forum.php on line 35
+[15-Dec-2024 22:30:43 UTC] PHP Stack trace:
+[15-Dec-2024 22:30:43 UTC] PHP   1. {main}() C:\wamp64\www\connect\forum.php:0
+[15-Dec-2024 22:30:43 UTC] PHP   2. htmlspecialchars($string = NULL) C:\wamp64\www\connect\forum.php:35
